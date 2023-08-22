@@ -1,0 +1,1 @@
+<add name="DefaultConnection" connectionString="workstation id=Ontario_db.mssql.somee.com;packet size=4096;user id=Ontario_SQLLogin_1;pwd=32fphq3dzc;data source=Ontario_db.mssql.somee.com;persist security info=False;initial catalog=Ontario_db" providerName="System.Data.SqlClient"/>
